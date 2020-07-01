@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaf466ce-67b1-46e6-8efc-4f48549eacfe" name="Default Changelist" comment="" />
+    <list default="true" id="eaf466ce-67b1-46e6-8efc-4f48549eacfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/service/impl/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/java/com/blog/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/resources/templates/blog/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/blog/src/main/resources/templates/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/demo111/src/main/java/com/example/demo/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/validation/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/java/com/validate_form/validation/PhoneNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/resources/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/BaiTap/validate_form/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/custom_validate/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/custom_validate/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/custom_validate/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/custom_validate/src/main/resources/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/demo/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/demo/src/main/java/com/example/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/demo/src/main/resources/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/validation-form-input/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/validation-form-input/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/validation-form-input/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Validation/ThucHanh/validation-form-input/src/main/resources/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation-form-input/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation-form-input/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation-form-input/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation-form-input/.idea/validation-form-input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validation-form-input/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/model/Province.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/model/Province.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/repository/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringDataRepository/ThucHanh/customer-management/src/main/java/com/codegym/cms/repository/impl/CustomerRepositoryImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +62,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/case-study-java-web" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -38,11 +83,26 @@
       <workItem from="1591323623687" duration="680000" />
       <workItem from="1591686848353" duration="3521000" />
       <workItem from="1591710952742" duration="603000" />
+      <workItem from="1592281624275" duration="1830000" />
+      <workItem from="1593136113395" duration="82000" />
+      <workItem from="1593392860042" duration="69000" />
     </task>
+    <task id="LOCAL-00001" summary="AA">
+      <created>1592281723544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592281723544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AA" />
+    <option name="LAST_COMMIT_MESSAGE" value="AA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="412" y="159" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1591687004131">
@@ -53,13 +113,25 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="526" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1591690117075" />
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1591716055703">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1592281718403">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591716055703" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1592281718403" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1593392927153">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593392927153" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1591690136487">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1591690136487" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1592281736229">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1592281736229" />
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1593136166952">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1593136166952" />
   </component>
 </project>

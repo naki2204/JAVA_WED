@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>USER</title>
+</head>
+<body>
+<h1>Users</h1>
+<p>
+<a href="/create">Create new user</a>
+</p>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
+
+<table border="1">
+
+    <tr>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Age</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+    </tr>
+    <th:block th:each="user : ${users}">
+<!--        <input th:type="hidden" name="id" th:field="${id}">-->
+        <tr>
+            <td th:text="${user.firstName}"></td>
+            <td th:text="${user.lastName}"></td>
+            <td th:text="${user.age}"></td>
+            <td th:text="${user.email}"></td>
+            <td th:text="${user.phoneNumber}"></td>
+        </tr>
+    </th:block>
+
+
+</table>
+</body>
+</html>
